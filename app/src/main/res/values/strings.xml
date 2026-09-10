@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">Flasher</string>
+    <string name="pattern_steady">Steady</string>
+    <string name="pattern_strobe">Strobe</string>
+    <string name="pattern_sos">SOS</string>
+    <string name="action_start">Start</string>
+    <string name="action_stop">Stop</string>
+    <string name="status_idle">Idle</string>
+    <string name="status_running">Running: %1$s</string>
+    <string name="error_no_flash">This device has no camera flash.</string>
+    <string name="error_permission_denied">Camera permission is required to control the flashlight.</string>
+</resources>
